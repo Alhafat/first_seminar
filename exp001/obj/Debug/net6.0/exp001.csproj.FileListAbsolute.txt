@@ -1,0 +1,5 @@
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp001\obj\Debug\net6.0\exp001.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp001\obj\Debug\net6.0\exp001.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp001\obj\Debug\net6.0\exp001.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp001\obj\Debug\net6.0\exp001.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp001\obj\Debug\net6.0\exp001.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\bin\Debug\net6.0\exp002.exe
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\bin\Debug\net6.0\exp002.deps.json
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\bin\Debug\net6.0\exp002.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\bin\Debug\net6.0\exp002.dll
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\bin\Debug\net6.0\exp002.pdb
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.dll
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\refint\exp002.dll
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.pdb
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\exp002.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования\1 семинар\vs\exp002\obj\Debug\net6.0\ref\exp002.dll
